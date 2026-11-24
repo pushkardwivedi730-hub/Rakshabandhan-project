@@ -1,0 +1,6 @@
+{
+  "name": "APNA GIFT - Raksha Bandhan Gifting",
+  "description": "Premium Raksha Bandhan gifting e-commerce landing page featuring exclusive gift combos, festive offers, interactive gift finder, and emotional brother-sister hampers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
